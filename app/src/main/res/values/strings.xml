@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">C0777245_Ex7</string>
+    <string name="title_home">Android</string>
+    <string name="title_dashboard">Student ID</string>
+    <string name="title_notifications">About us</string>
+    <string name="android_home">Android is a mobile operating system based on a modified version of the Linux kernel and other open source software, designed primarily for touchscreen mobile devices such as smartphones and tablets.\n\n
+        Initial release date: September 23, 2008 \n
+        Platforms: 32- and 64-bit ARM, x86 and x86-64 \n
+        Package manager: APK-based</string>
+    <string name="student_dashboard">Student ID: C0777245\nStudent Name: Anmol Preet Singh Chhabra\nCollege: Lambton College\nLocation: Toronto\nProvince: Ontario\n</string>
+    <string name="about_us">Email: info@lambtoncollege.ca\nProgram Info: 519-541-2403\nMain: 519-542-7751\nAddress: 1457 London Road, Sarnia, ON N7S 6K4</string>
+</resources>
